@@ -7,7 +7,7 @@ ThinkPHP 6 阿里云日志服务日志驱动
 
 ## 安装
 ```
-composer require tlingc/think-aliyunsls
+composer require ylxp/think-aliyunsls
 ```
 
 ## 配置
